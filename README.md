@@ -34,6 +34,8 @@ To calculate the correlation coefficients, the following formula was applied:
 | **Fertilizer** | -0.03   | 0.01         | -0.01     | 0.02     | 1.00       | 0.10       |
 | **Crop Yield** | 0.09    | 0.04         | 0.99      | -0.01    | 0.10       | 1.00       |
 
+### Correlation Heatmap
+
 ![Chart](https://github.com/user-attachments/assets/b65f2903-48db-40bb-baf9-bfddcb595cc9)
 
 ## Key Findings  
